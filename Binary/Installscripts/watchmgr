@@ -1,0 +1,37 @@
+#!/bin/bash
+########################################################################################
+# Install script from Adlumin.
+#
+# Copyright © 2017 Adlumin 
+# https://www.adlumin.com/
+########################################################################################
+
+plwatcherPID=""
+thisProdLogWatcher="logwatcher"
+
+function checkLogWatcher() {
+	plwatcherPID=$(pidof ./$thisProdLogWatcher)
+	echo $plwatcherPID
+}
+
+function initiateLogWatcher() {
+	checkLogWatcher
+	if [ -z $plwatcherPID ]; then
+		echo "Starting server.."
+		./$thisProdLogWatcher &
+		sleep 5
+		checkLogWatcher
+		echo "start. PID=$plwatcherPID"
+	else
+		echo "Ruby Prod Log watcher is already running, PID=$plwatcherPID"
+	fi
+}
+
+case "$1" in
+start)
+	initiateLogWatcher
+	;;
+*)
+	echo "~##~ Script of Adlumin Prod Log watcher ~##~"
+	;;
+esac

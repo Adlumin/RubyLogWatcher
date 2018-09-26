@@ -1,0 +1,21 @@
+############################################################
+# Copyright (c) 2018 Adlumin Inc                           #
+# All rights reserved.                                     #
+# https://www.adlumin.com/                                 #
+############################################################
+[Unit]
+Description= Ruby Log Watcher
+After=network.target
+
+[Service]
+Type=forking
+User=ubuntu
+Group=ubuntu
+WorkingDirectory=/home/ubuntu/productionlogwatcher/
+ExecStart=/bin/bash /home/ubuntu/productionlogwatcher/watchmgr start
+Restart=always
+RestartSec=300
+KillMode=process
+
+[Install]
+WantedBy=multi-user.target

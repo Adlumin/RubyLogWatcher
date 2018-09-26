@@ -1,0 +1,324 @@
+E, [2018-08-27T04:00:12.687529 #1182] ERROR -- : 100
+E, [2018-08-27T04:00:12.690020 #1182] ERROR -- : 100
+E, [2018-08-27T04:00:12.697986 #1182] ERROR -- : 90
+E, [2018-08-27T04:00:12.708474 #1182] ERROR -- : 90
+E, [2018-08-27T04:00:12.898790 #1182] ERROR -- : 90
+E, [2018-08-27T04:00:12.925440 #1182] ERROR -- : 90
+E, [2018-08-27T04:00:12.930017 #1182] ERROR -- : 80
+E, [2018-08-27T04:00:12.931179 #1182] ERROR -- : 70
+E, [2018-08-27T04:00:12.932149 #1182] ERROR -- : 70
+E, [2018-08-27T04:00:12.933596 #1182] ERROR -- : 65
+E, [2018-08-27T04:00:12.956200 #1182] ERROR -- : 60
+E, [2018-08-27T04:00:12.959620 #1182] ERROR -- : 55
+E, [2018-08-27T04:00:12.990938 #1182] ERROR -- : 50
+E, [2018-08-27T05:00:12.783049 #1182] ERROR -- : 100
+E, [2018-08-27T05:00:12.784762 #1182] ERROR -- : 100
+E, [2018-08-27T05:00:12.786072 #1182] ERROR -- : 90
+E, [2018-08-27T05:00:12.791487 #1182] ERROR -- : 90
+E, [2018-08-27T05:00:12.969813 #1182] ERROR -- : 90
+E, [2018-08-27T05:00:13.003008 #1182] ERROR -- : 90
+E, [2018-08-27T05:00:13.004969 #1182] ERROR -- : 80
+E, [2018-08-27T05:00:13.006157 #1182] ERROR -- : 70
+E, [2018-08-27T05:00:13.007112 #1182] ERROR -- : 70
+E, [2018-08-27T05:00:13.008564 #1182] ERROR -- : 65
+E, [2018-08-27T05:00:13.013486 #1182] ERROR -- : 60
+E, [2018-08-27T05:00:13.014656 #1182] ERROR -- : 55
+E, [2018-08-27T05:00:13.045467 #1182] ERROR -- : 50
+E, [2018-08-27T06:00:05.275984 #6470] ERROR -- : INSIDE AWS API INFO
+E, [2018-08-27T06:00:14.778983 #1182] ERROR -- : 100
+E, [2018-08-27T06:00:14.780659 #1182] ERROR -- : 100
+E, [2018-08-27T06:00:14.781912 #1182] ERROR -- : 90
+E, [2018-08-27T06:00:14.787283 #1182] ERROR -- : 90
+E, [2018-08-27T06:00:14.965544 #1182] ERROR -- : 90
+E, [2018-08-27T06:00:14.997730 #1182] ERROR -- : 90
+E, [2018-08-27T06:00:14.999692 #1182] ERROR -- : 80
+E, [2018-08-27T06:00:15.000853 #1182] ERROR -- : 70
+E, [2018-08-27T06:00:15.001725 #1182] ERROR -- : 70
+E, [2018-08-27T06:00:15.003106 #1182] ERROR -- : 65
+E, [2018-08-27T06:00:15.008213 #1182] ERROR -- : 60
+E, [2018-08-27T06:00:15.009346 #1182] ERROR -- : 55
+E, [2018-08-27T06:00:15.047505 #1182] ERROR -- : 50
+E, [2018-08-27T07:00:17.222756 #1182] ERROR -- : 100
+E, [2018-08-27T07:00:17.224415 #1182] ERROR -- : 100
+E, [2018-08-27T07:00:17.225693 #1182] ERROR -- : 90
+E, [2018-08-27T07:00:17.231132 #1182] ERROR -- : 90
+E, [2018-08-27T07:00:17.410076 #1182] ERROR -- : 90
+E, [2018-08-27T07:00:17.436266 #1182] ERROR -- : 90
+E, [2018-08-27T07:00:17.438206 #1182] ERROR -- : 80
+E, [2018-08-27T07:00:17.439387 #1182] ERROR -- : 70
+E, [2018-08-27T07:00:17.440286 #1182] ERROR -- : 70
+E, [2018-08-27T07:00:17.441749 #1182] ERROR -- : 65
+E, [2018-08-27T07:00:17.446547 #1182] ERROR -- : 60
+E, [2018-08-27T07:00:17.447619 #1182] ERROR -- : 55
+E, [2018-08-27T07:00:17.478233 #1182] ERROR -- : 50
+E, [2018-08-27T08:00:12.168529 #1182] ERROR -- : 100
+E, [2018-08-27T08:00:12.170139 #1182] ERROR -- : 100
+E, [2018-08-27T08:00:12.171356 #1182] ERROR -- : 90
+E, [2018-08-27T08:00:12.176740 #1182] ERROR -- : 90
+E, [2018-08-27T08:00:12.365917 #1182] ERROR -- : 90
+E, [2018-08-27T08:00:12.390741 #1182] ERROR -- : 90
+E, [2018-08-27T08:00:12.392572 #1182] ERROR -- : 80
+E, [2018-08-27T08:00:12.393824 #1182] ERROR -- : 70
+E, [2018-08-27T08:00:12.394798 #1182] ERROR -- : 70
+E, [2018-08-27T08:00:12.396302 #1182] ERROR -- : 65
+E, [2018-08-27T08:00:12.401568 #1182] ERROR -- : 60
+E, [2018-08-27T08:00:12.402643 #1182] ERROR -- : 55
+E, [2018-08-27T08:00:12.434057 #1182] ERROR -- : 50
+E, [2018-08-27T09:00:05.522585 #28165] ERROR -- : INSIDE AWS API INFO
+E, [2018-08-27T09:00:27.675284 #1182] ERROR -- : 100
+E, [2018-08-27T09:00:27.676963 #1182] ERROR -- : 100
+E, [2018-08-27T09:00:27.678180 #1182] ERROR -- : 90
+E, [2018-08-27T09:00:27.683659 #1182] ERROR -- : 90
+E, [2018-08-27T09:00:27.864541 #1182] ERROR -- : 90
+E, [2018-08-27T09:00:27.889343 #1182] ERROR -- : 90
+E, [2018-08-27T09:00:27.891225 #1182] ERROR -- : 80
+E, [2018-08-27T09:00:27.892529 #1182] ERROR -- : 70
+E, [2018-08-27T09:00:27.893523 #1182] ERROR -- : 70
+E, [2018-08-27T09:00:27.894922 #1182] ERROR -- : 65
+E, [2018-08-27T09:00:27.900004 #1182] ERROR -- : 60
+E, [2018-08-27T09:00:27.901116 #1182] ERROR -- : 55
+E, [2018-08-27T09:00:27.932008 #1182] ERROR -- : 50
+E, [2018-08-27T10:00:10.535853 #1182] ERROR -- : 100
+E, [2018-08-27T10:00:10.537533 #1182] ERROR -- : 100
+E, [2018-08-27T10:00:10.538762 #1182] ERROR -- : 90
+E, [2018-08-27T10:00:10.544338 #1182] ERROR -- : 90
+E, [2018-08-27T10:00:10.725819 #1182] ERROR -- : 90
+E, [2018-08-27T10:00:10.750077 #1182] ERROR -- : 90
+E, [2018-08-27T10:00:10.752038 #1182] ERROR -- : 80
+E, [2018-08-27T10:00:10.753192 #1182] ERROR -- : 70
+E, [2018-08-27T10:00:10.754224 #1182] ERROR -- : 70
+E, [2018-08-27T10:00:10.756184 #1182] ERROR -- : 65
+E, [2018-08-27T10:00:10.761416 #1182] ERROR -- : 60
+E, [2018-08-27T10:00:10.762473 #1182] ERROR -- : 55
+E, [2018-08-27T10:00:10.793518 #1182] ERROR -- : 50
+E, [2018-08-27T11:00:18.510516 #1182] ERROR -- : 100
+E, [2018-08-27T11:00:18.512208 #1182] ERROR -- : 100
+E, [2018-08-27T11:00:18.513539 #1182] ERROR -- : 90
+E, [2018-08-27T11:00:18.519356 #1182] ERROR -- : 90
+E, [2018-08-27T11:00:18.713263 #1182] ERROR -- : 90
+E, [2018-08-27T11:00:18.745481 #1182] ERROR -- : 90
+E, [2018-08-27T11:00:18.747426 #1182] ERROR -- : 80
+E, [2018-08-27T11:00:18.748574 #1182] ERROR -- : 70
+E, [2018-08-27T11:00:18.750479 #1182] ERROR -- : 70
+E, [2018-08-27T11:00:18.755099 #1182] ERROR -- : 65
+E, [2018-08-27T11:00:18.767023 #1182] ERROR -- : 60
+E, [2018-08-27T11:00:18.768149 #1182] ERROR -- : 55
+E, [2018-08-27T11:00:18.799461 #1182] ERROR -- : 50
+E, [2018-08-27T12:00:05.093818 #30401] ERROR -- : INSIDE AWS API INFO
+E, [2018-08-27T12:00:15.076970 #1182] ERROR -- : 100
+E, [2018-08-27T12:00:15.078614 #1182] ERROR -- : 100
+E, [2018-08-27T12:00:15.079845 #1182] ERROR -- : 90
+E, [2018-08-27T12:00:15.085048 #1182] ERROR -- : 90
+E, [2018-08-27T12:00:15.267575 #1182] ERROR -- : 90
+E, [2018-08-27T12:00:15.299588 #1182] ERROR -- : 90
+E, [2018-08-27T12:00:15.301553 #1182] ERROR -- : 80
+E, [2018-08-27T12:00:15.302867 #1182] ERROR -- : 70
+E, [2018-08-27T12:00:15.303880 #1182] ERROR -- : 70
+E, [2018-08-27T12:00:15.305634 #1182] ERROR -- : 65
+E, [2018-08-27T12:00:15.310578 #1182] ERROR -- : 60
+E, [2018-08-27T12:00:15.311595 #1182] ERROR -- : 55
+E, [2018-08-27T12:00:15.342372 #1182] ERROR -- : 50
+E, [2018-08-27T13:00:21.941856 #1182] ERROR -- : 100
+E, [2018-08-27T13:00:21.943488 #1182] ERROR -- : 100
+E, [2018-08-27T13:00:21.944713 #1182] ERROR -- : 90
+E, [2018-08-27T13:00:21.950366 #1182] ERROR -- : 90
+E, [2018-08-27T13:00:22.131333 #1182] ERROR -- : 90
+E, [2018-08-27T13:00:22.159385 #1182] ERROR -- : 90
+E, [2018-08-27T13:00:22.162250 #1182] ERROR -- : 80
+E, [2018-08-27T13:00:22.163483 #1182] ERROR -- : 70
+E, [2018-08-27T13:00:22.164576 #1182] ERROR -- : 70
+E, [2018-08-27T13:00:22.166098 #1182] ERROR -- : 65
+E, [2018-08-27T13:00:22.171534 #1182] ERROR -- : 60
+E, [2018-08-27T13:00:22.172539 #1182] ERROR -- : 55
+E, [2018-08-27T13:00:22.203243 #1182] ERROR -- : 50
+E, [2018-08-27T14:00:29.585676 #1182] ERROR -- : 100
+E, [2018-08-27T14:00:29.587209 #1182] ERROR -- : 100
+E, [2018-08-27T14:00:29.588381 #1182] ERROR -- : 90
+E, [2018-08-27T14:00:29.593812 #1182] ERROR -- : 90
+E, [2018-08-27T14:00:29.776390 #1182] ERROR -- : 90
+E, [2018-08-27T14:00:29.799657 #1182] ERROR -- : 90
+E, [2018-08-27T14:00:29.801597 #1182] ERROR -- : 80
+E, [2018-08-27T14:00:29.802765 #1182] ERROR -- : 70
+E, [2018-08-27T14:00:29.803747 #1182] ERROR -- : 70
+E, [2018-08-27T14:00:29.805151 #1182] ERROR -- : 65
+E, [2018-08-27T14:00:29.809932 #1182] ERROR -- : 60
+E, [2018-08-27T14:00:29.810936 #1182] ERROR -- : 55
+E, [2018-08-27T14:00:29.841838 #1182] ERROR -- : 50
+F, [2018-08-27T14:31:53.788969 #14777] FATAL -- : 
+ActionView::MissingTemplate (Missing template network_health/overwrite_notes, application/overwrite_notes with {:locale=>[:en], :formats=>[:json, :js, :html, :text, :js, :css, :ics, :csv, :vcf, :png, :jpeg, :gif, :bmp, :tiff, :mpeg, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/ubuntu/sentryagentUI/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/progressive_render-0.7.0/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/two_factor_authentication-1.1.5/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/devise_security_extension-0.10.0/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.5/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/devise-3.5.10/app/views"
+):
+  actionview (4.2.7.1) lib/action_view/path_set.rb:46:in `find'
+  actionview (4.2.7.1) lib/action_view/lookup_context.rb:121:in `find'
+  actionview (4.2.7.1) lib/action_view/renderer/abstract_renderer.rb:18:in `find_template'
+  actionview (4.2.7.1) lib/action_view/renderer/template_renderer.rb:40:in `determine_template'
+  actionview (4.2.7.1) lib/action_view/renderer/template_renderer.rb:8:in `render'
+  actionview (4.2.7.1) lib/action_view/renderer/renderer.rb:46:in `render_template'
+  actionview (4.2.7.1) lib/action_view/renderer/renderer.rb:27:in `render'
+  actionview (4.2.7.1) lib/action_view/rendering.rb:100:in `_render_template'
+  actionpack (4.2.7.1) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.2.7.1) lib/action_view/rendering.rb:83:in `render_to_body'
+  actionpack (4.2.7.1) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.2.7.1) lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+  actionpack (4.2.7.1) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.2.7.1) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.2.7.1) lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+  activesupport (4.2.7.1) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/2.3.0/benchmark.rb:308:in `realtime'
+  activesupport (4.2.7.1) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.2.7.1) lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+  actionpack (4.2.7.1) lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+  searchkick (2.3.0) lib/searchkick/logging.rb:214:in `cleanup_view_runtime'
+  activerecord (4.2.7.1) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.2.7.1) lib/action_controller/metal/instrumentation.rb:43:in `render'
+  wicked_pdf (1.1.0) lib/wicked_pdf/pdf_helper.rb:42:in `render_with_wicked_pdf'
+  progressive_render (0.7.0) lib/progressive_render/rails/controller.rb:21:in `render'
+  actionpack (4.2.7.1) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.2.7.1) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.2.7.1) lib/abstract_controller/base.rb:198:in `process_action'
+  actionpack (4.2.7.1) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.2.7.1) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.2.7.1) lib/active_support/callbacks.rb:117:in `call'
+  activesupport (4.2.7.1) lib/active_support/callbacks.rb:555:in `block (2 levels) in compile'
+  activesupport (4.2.7.1) lib/active_support/callbacks.rb:505:in `call'
+  activesupport (4.2.7.1) lib/active_support/callbacks.rb:92:in `__run_callbacks__'
+  activesupport (4.2.7.1) lib/active_support/callbacks.rb:778:in `_run_process_action_callbacks'
+  activesupport (4.2.7.1) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.7.1) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.2.7.1) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.2.7.1) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+  activesupport (4.2.7.1) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.7.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.7.1) lib/active_support/notifications.rb:164:in `instrument'
+  actionpack (4.2.7.1) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.2.7.1) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  searchkick (2.3.0) lib/searchkick/logging.rb:209:in `process_action'
+  activerecord (4.2.7.1) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.2.7.1) lib/abstract_controller/base.rb:137:in `process'
+  actionview (4.2.7.1) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.7.1) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.2.7.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.7.1) lib/action_controller/metal.rb:237:in `block in action'
+  actionpack (4.2.7.1) lib/action_dispatch/routing/route_set.rb:74:in `dispatch'
+  actionpack (4.2.7.1) lib/action_dispatch/routing/route_set.rb:43:in `serve'
+  actionpack (4.2.7.1) lib/action_dispatch/routing/mapper.rb:49:in `serve'
+  actionpack (4.2.7.1) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.7.1) lib/action_dispatch/journey/router.rb:30:in `each'
+  actionpack (4.2.7.1) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.7.1) lib/action_dispatch/routing/route_set.rb:817:in `call'
+  warden (1.2.7) lib/warden/manager.rb:36:in `block in call'
+  warden (1.2.7) lib/warden/manager.rb:35:in `catch'
+  warden (1.2.7) lib/warden/manager.rb:35:in `call'
+  rack (1.6.8) lib/rack/etag.rb:24:in `call'
+  rack (1.6.8) lib/rack/conditionalget.rb:38:in `call'
+  rack (1.6.8) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.7.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.7.1) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.8) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.8) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.7.1) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.7.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.7.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  actionpack (4.2.7.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.7.1) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.7.1) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.7.1) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.7.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.7.1) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.7.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.2.7.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.7.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.7.1) lib/rails/rack/logger.rb:22:in `call'
+  actionpack (4.2.7.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.7.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  actionpack (4.2.7.1) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  actionpack (4.2.7.1) lib/action_dispatch/middleware/ssl.rb:24:in `call'
+  rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+  railties (4.2.7.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.7.1) lib/rails/application.rb:165:in `call'
+  unicorn (5.3.0) lib/unicorn/http_server.rb:606:in `process_client'
+  unicorn (5.3.0) lib/unicorn/http_server.rb:702:in `worker_loop'
+  unicorn (5.3.0) lib/unicorn/http_server.rb:549:in `spawn_missing_workers'
+  unicorn (5.3.0) lib/unicorn/http_server.rb:142:in `start'
+  unicorn (5.3.0) bin/unicorn:126:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.3.1/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.3.1/bin/unicorn:23:in `<top (required)>'
+  bundler (1.14.6) lib/bundler/cli/exec.rb:74:in `load'
+  bundler (1.14.6) lib/bundler/cli/exec.rb:74:in `kernel_load'
+  bundler (1.14.6) lib/bundler/cli/exec.rb:27:in `run'
+  bundler (1.14.6) lib/bundler/cli.rb:335:in `exec'
+  bundler (1.14.6) lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+  bundler (1.14.6) lib/bundler/vendor/thor/lib/thor/invocation.rb:126:in `invoke_command'
+  bundler (1.14.6) lib/bundler/vendor/thor/lib/thor.rb:359:in `dispatch'
+  bundler (1.14.6) lib/bundler/cli.rb:20:in `dispatch'
+  bundler (1.14.6) lib/bundler/vendor/thor/lib/thor/base.rb:440:in `start'
+  bundler (1.14.6) lib/bundler/cli.rb:11:in `start'
+  bundler (1.14.6) exe/bundle:32:in `block in <top (required)>'
+  bundler (1.14.6) lib/bundler/friendly_errors.rb:121:in `with_friendly_errors'
+  bundler (1.14.6) exe/bundle:24:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.3.1/bin/bundle:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.3.1/bin/bundle:23:in `<main>'
+
+
+F, [2018-08-27T14:31:53.788969 #14888] FATAL -- : 
+ActionView::222MissingTemplate (Missing template network_health/overwrite_notes, application/overwrite_notes with {:locale=>[:en], :formats=>[:json, :js, :html, :text, :js, :css, :ics, :csv, :vcf, :png, :jpeg, :gif, :bmp, :tiff, :mpeg, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/ubuntu/sentryagentUI/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/progressive_render-0.7.0/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/two_factor_authentication-1.1.5/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/devise_security_extension-0.10.0/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.5/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/devise-3.5.10/app/views"
+):
+E, [2018-08-27T15:00:05.178906 #32756] ERROR -- : INSIDE AWS API INFO
+E, [2018-08-27T15:00:15.559561 #1182] ERROR -- : 100
+E, [2018-08-27T15:00:15.561340 #1182] ERROR -- : 100
+F, [2018-08-27T14:31:53.788969 #1483] FATAL -- : 
+ActionView::333MissingTemplate (Missing template network_health/overwrite_notes, application/overwrite_notes with {:locale=>[:en], :formats=>[:json, :js, :html, :text, :js, :css, :ics, :csv, :vcf, :png, :jpeg, :gif, :bmp, :tiff, :mpeg, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/ubuntu/sentryagentUI/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/progressive_render-0.7.0/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/two_factor_authentication-1.1.5/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/devise_security_extension-0.10.0/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.5/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/devise-3.5.10/app/views"
+):
+E, [2018-08-27T15:00:15.577039 #1182] ERROR -- : 90
+E, [2018-08-27T15:00:15.583108 #1182] ERROR -- : 90
+E, [2018-08-27T15:00:15.764210 #1182] ERROR -- : 90
+E, [2018-08-27T15:00:15.795568 #1182] ERROR -- : 90
+E, [2018-08-27T15:00:15.797528 #1182] ERROR -- : 80
+E, [2018-08-27T15:00:15.798677 #1182] ERROR -- : 70
+E, [2018-08-27T15:00:15.800021 #1182] ERROR -- : 70
+E, [2018-08-27T15:00:15.801631 #1182] ERROR -- : 65
+E, [2018-08-27T15:00:15.806637 #1182] ERROR -- : 60
+E, [2018-08-27T15:00:15.807687 #1182] ERROR -- : 55
+E, [2018-08-27T15:00:15.838773 #1182] ERROR -- : 50
+E, [2018-08-27T16:00:30.881549 #1182] ERROR -- : 100
+E, [2018-08-27T16:00:30.883364 #1182] ERROR -- : 100
+E, [2018-08-27T16:00:30.884643 #1182] ERROR -- : 90
+E, [2018-08-27T16:00:30.890670 #1182] ERROR -- : 90
+E, [2018-08-27T16:00:31.074918 #1182] ERROR -- : 90
+E, [2018-08-27T16:00:31.239358 #1182] ERROR -- : 90
+E, [2018-08-27T16:00:31.241487 #1182] ERROR -- : 80
+E, [2018-08-27T16:00:31.242718 #1182] ERROR -- : 70
+E, [2018-08-27T16:00:31.243856 #1182] ERROR -- : 70
+E, [2018-08-27T16:00:31.245425 #1182] ERROR -- : 65
+E, [2018-08-27T16:00:31.250726 #1182] ERROR -- : 60
+E, [2018-08-27T16:00:31.251935 #1182] ERROR -- : 55
+E, [2018-08-27T16:00:31.283119 #1182] ERROR -- : 50
+F, [2018-08-27T14:31:53.788969 #1483] FATAL -- : 
+ActionView::333MissingTemplate (Missing template network_health/overwrite_notes, application/overwrite_notes with {:locale=>[:en], :formats=>[:json, :js, :html, :text, :js, :css, :ics, :csv, :vcf, :png, :jpeg, :gif, :bmp, :tiff, :mpeg, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/ubuntu/sentryagentUI/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/progressive_render-0.7.0/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/two_factor_authentication-1.1.5/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/devise_security_extension-0.10.0/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/devise_invitable-1.5.5/app/views"
+  * "/home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/devise-3.5.10/app/views"
+):
