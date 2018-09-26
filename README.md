@@ -1,7 +1,6 @@
 # RubyLogWatcher
 
-This Log watcher is developer to report "Fatal" type error found in the Log file 
-( for this purpse generated out of Ruby code). 
+This Log watcher is developed to report "Fatal" type error found in the Log file. 
 It only scan the logs for event that have occured in the past one hour (which is 
 configuraled via attribute "LogInterval" found in the config.json file )
 
