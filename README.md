@@ -6,4 +6,5 @@ It only scans the log files for event(entires) that have occurred in the past ON
 These found events are scrapped out of the log file and posted on to AWS Elastic Search (where developers with less or no privilage to the EC2 instance can review it) 
 
 This Log watcher can be installed on any Linux OS
-using "systemctl" type daemon setting,  which can be found in the folder:installscript
+using "systemctl" type daemon setting,  which can be found in the folder: InstallUninstallScript
+
